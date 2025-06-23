@@ -226,10 +226,10 @@ section {
 
 /* Seção Home (Hero) */
 .hero-section {
-    background-image: url('../img/bg.jpg');
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center;
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
