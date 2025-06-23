@@ -226,7 +226,7 @@ section {
 
 /* Seção Home (Hero) */
 .hero-section {
-    background-image: url('/img/bg.jpg');
+    background-image: url('./img/bg.jpg');
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
